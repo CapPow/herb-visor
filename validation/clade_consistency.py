@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 """
-clade_consistency.py  (pkg_v2/human_gt/)
+clade_consistency.py  (validation/)
 
 Label-free reliability check over the FULL test set. For every prediction,
 asks: did the model assert a reproductive trait that is botanically IMPOSSIBLE
 for that specimen's clade (per the GBIF backbone)? Needs no human annotation,
 so it scales to the entire corpus.
 
-Run from pkg_v2/:
-    python human_gt/clade_consistency.py [--preds human_gt/preds.jsonl]
-                                         [--clade human_gt/clade_map.csv]
+Run from validation/:
+    python clade_consistency.py [--preds preds.jsonl]
+                                                                   [--clade clade_map.csv]
 
 Reports, per source (student / teacher):
   - per-trait IMPOSSIBLE RATE = P(trait predicted true | trait impossible here),
@@ -17,7 +17,7 @@ Reports, per source (student / teacher):
   - specimen-level rate (>=1 impossible positive)
   - on-clade positive rates (context: how often the trait is used where it IS
     possible; correctness of these is NOT adjudicated by taxonomy)
-Outputs human_gt/impossible_report.csv.
+Outputs outputs/impossible_report.csv.
 """
 import argparse, csv, json
 from collections import defaultdict
@@ -45,9 +45,9 @@ def dotget(d, path):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--preds", default="human_gt/preds.jsonl")
-    ap.add_argument("--clade", default="human_gt/clade_map.csv")
-    ap.add_argument("--out", default="human_gt/impossible_report.csv")
+    ap.add_argument("--preds", default="preds.jsonl")
+    ap.add_argument("--clade", default="clade_map.csv")
+    ap.add_argument("--out", default="outputs/impossible_report.csv")
     ap.add_argument("--list-violations", type=int, default=20,
                     help="max example violations to print per source")
     args = ap.parse_args()

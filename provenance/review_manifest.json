@@ -1,0 +1,9789 @@
+[
+  {
+    "gbifID": "1457803389",
+    "taxon": "Nypa fruticans",
+    "image_path": "images/Nypa_fruticans/1457803389.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.stem"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "1230634335",
+    "taxon": "Echeveria secunda",
+    "image_path": "images/Echeveria_secunda/1230634335.jpg",
+    "reason_tags": [
+      "rare_positive",
+      "attached_photo"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "1851055148",
+    "taxon": "Sphenoclea dalzielii",
+    "image_path": "images/Sphenoclea_dalzielii/1851055148.jpg",
+    "reason_tags": [
+      "agree_control"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "3744692273",
+    "taxon": "Nuphar lutea",
+    "image_path": "images/Nuphar_lutea/3744692273.jpg",
+    "reason_tags": [
+      "agree_control"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "912645808",
+    "taxon": "Pentaphragma sinense",
+    "image_path": "images/Pentaphragma_sinense/912645808.jpg",
+    "reason_tags": [
+      "rare_positive",
+      "structures.phenology.reproductive_unknown"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "1998740556",
+    "taxon": "Comptonia peregrina",
+    "image_path": "images/Comptonia_peregrina/1998740556.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.phenology.flower"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "5067983906",
+    "taxon": "Bougainvillea spectabilis",
+    "image_path": "images/Bougainvillea_spectabilis/5067983906.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.phenology.flower"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "5135821239",
+    "taxon": "Triaenophora bucharica",
+    "image_path": "images/Triaenophora_bucharica/5135821239.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.phenology.flower"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "3345583609",
+    "taxon": "Dodartia orientalis",
+    "image_path": "images/Dodartia_orientalis/3345583609.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.foliage_type"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "5922522518",
+    "taxon": "Peltophyllum luteum",
+    "image_path": "images/Peltophyllum_luteum/5922522518.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.foliage_type"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "4607919255",
+    "taxon": "Bromelia laciniosa",
+    "image_path": "images/Bromelia_laciniosa/4607919255.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.stem"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "5836646390",
+    "taxon": "Lacistema pubescens",
+    "image_path": "images/Lacistema_pubescens/5836646390.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.phenology.flower"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "2859390492",
+    "taxon": "Centroplacus glaucinus",
+    "image_path": "images/Centroplacus_glaucinus/2859390492.jpg",
+    "reason_tags": [
+      "rare_positive",
+      "structures.phenology.reproductive_unknown"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "1212257796",
+    "taxon": "Empodisma minus",
+    "image_path": "images/Empodisma_minus/1212257796.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.foliage_type"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "1851063984",
+    "taxon": "Limeum arabicum",
+    "image_path": "images/Limeum_arabicum/1851063984.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.phenology.fruit"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "2595760027",
+    "taxon": "Sadleria cyatheoides",
+    "image_path": "images/Sadleria_cyatheoides/2595760027.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.stem"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "4929859002",
+    "taxon": "Walleria gracilis",
+    "image_path": "images/Walleria_gracilis/4929859002.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.phenology.fruit"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "1211535624",
+    "taxon": "Croton suberosus",
+    "image_path": "images/Croton_suberosus/1211535624.jpg",
+    "reason_tags": [
+      "rare_positive",
+      "structures.phenology.reproductive_unknown"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "4912423459",
+    "taxon": "Houttuynia cordata",
+    "image_path": "images/Houttuynia_cordata/4912423459.jpg",
+    "reason_tags": [
+      "agree_control"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "1228615159",
+    "taxon": "Tropaeolum azureum",
+    "image_path": "images/Tropaeolum_azureum/1228615159.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.phenology.fruit"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "4433412602",
+    "taxon": "Myrothamnus moschatus",
+    "image_path": "images/Myrothamnus_moschatus/4433412602.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.foliage_type"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "2430384351",
+    "taxon": "Passiflora foetida",
+    "image_path": "images/Passiflora_foetida/2430384351.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.phenology.flower"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "1319982877",
+    "taxon": "Griselinia carlomunozii",
+    "image_path": "images/Griselinia_carlomunozii/1319982877.jpg",
+    "reason_tags": [
+      "rare_positive",
+      "attached_photo"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "2270590449",
+    "taxon": "Buddleja globosa",
+    "image_path": "images/Buddleja_globosa/2270590449.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.phenology.fruit"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "5922501158",
+    "taxon": "Salvinia natans",
+    "image_path": "images/Salvinia_natans/5922501158.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.foliage_type"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "3019927379",
+    "taxon": "Cornopteris christenseniana",
+    "image_path": "images/Cornopteris_christenseniana/3019927379.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.stem"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "1424537391",
+    "taxon": "Monimia rotundifolia",
+    "image_path": "images/Monimia_rotundifolia/1424537391.jpg",
+    "reason_tags": [
+      "rare_positive",
+      "attached_photo"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "4853871076",
+    "taxon": "Ternstroemia laevigata",
+    "image_path": "images/Ternstroemia_laevigata/4853871076.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.phenology.fruit"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "4954042639",
+    "taxon": "Casuarina equisetifolia",
+    "image_path": "images/Casuarina_equisetifolia/4954042639.jpg",
+    "reason_tags": [
+      "rare_positive",
+      "structures.phenology.seed_cone"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "4029543134",
+    "taxon": "Aponogeton madagascariensis",
+    "image_path": "images/Aponogeton_madagascariensis/4029543134.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.phenology.flower"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "5762676187",
+    "taxon": "Myrothamnus flabellifolius",
+    "image_path": "images/Myrothamnus_flabellifolius/5762676187.jpg",
+    "reason_tags": [
+      "rare_positive",
+      "structures.phenology.pollen_cone"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "2643349532",
+    "taxon": "Triaenophora integra",
+    "image_path": "images/Triaenophora_integra/2643349532.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.stem"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "3439628068",
+    "taxon": "Tetroncium magellanicum",
+    "image_path": "images/Tetroncium_magellanicum/3439628068.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.phenology.fruit"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "5283755860",
+    "taxon": "Strychnos nux vomica",
+    "image_path": "images/Strychnos_nux_vomica/5283755860.jpg",
+    "reason_tags": [
+      "rare_positive",
+      "attached_photo"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "4102121564",
+    "taxon": "Penthorum chinense",
+    "image_path": "images/Penthorum_chinense/4102121564.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.phenology.fruit"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "667328127",
+    "taxon": "Cardiopteris quinqueloba",
+    "image_path": "images/Cardiopteris_quinqueloba/667328127.jpg",
+    "reason_tags": [
+      "agree_control"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "2981282862",
+    "taxon": "Griselinia lucida",
+    "image_path": "images/Griselinia_lucida/2981282862.jpg",
+    "reason_tags": [
+      "disagree",
+      "refs.stamp"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "2418887689",
+    "taxon": "Abrophyllum ornans",
+    "image_path": "images/Abrophyllum_ornans/2418887689.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.phenology.fruit"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "1424000196",
+    "taxon": "Genlisea violacea",
+    "image_path": "images/Genlisea_violacea/1424000196.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.foliage_type"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "2598810551",
+    "taxon": "Olea europaea",
+    "image_path": "images/Olea_europaea/2598810551.jpg",
+    "reason_tags": [
+      "agree_control"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "1807400477",
+    "taxon": "Arceuthobium oxycedri",
+    "image_path": "images/Arceuthobium_oxycedri/1807400477.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.foliage_type"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "5089826655",
+    "taxon": "Commiphora myrrha",
+    "image_path": "images/Commiphora_myrrha/5089826655.jpg",
+    "reason_tags": [
+      "agree_control"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "2435826123",
+    "taxon": "Cypselocarpus haloragoides",
+    "image_path": "images/Cypselocarpus_haloragoides/2435826123.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.stem"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "4439090772",
+    "taxon": "Calectasia grandiflora",
+    "image_path": "images/Calectasia_grandiflora/4439090772.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.stem"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "5077896575",
+    "taxon": "Metteniusa edulis",
+    "image_path": "images/Metteniusa_edulis/5077896575.jpg",
+    "reason_tags": [
+      "agree_control"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "3439729776",
+    "taxon": "Cunonia capensis",
+    "image_path": "images/Cunonia_capensis/3439729776.jpg",
+    "reason_tags": [
+      "agree_control"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "2618588764",
+    "taxon": "Syngonanthus nitens",
+    "image_path": "images/Syngonanthus_nitens/2618588764.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.phenology.flower"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "1701875577",
+    "taxon": "Narthecium ossifragum",
+    "image_path": "images/Narthecium_ossifragum/1701875577.jpg",
+    "reason_tags": [
+      "disagree",
+      "refs.stamp"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "1424779211",
+    "taxon": "Puya raimondii",
+    "image_path": "images/Puya_raimondii/1424779211.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.stem"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "2575332760",
+    "taxon": "Euclea undulata",
+    "image_path": "images/Euclea_undulata/2575332760.jpg",
+    "reason_tags": [
+      "disagree",
+      "refs.stamp"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "3987773350",
+    "taxon": "Phyllonoma ruscifolia",
+    "image_path": "images/Phyllonoma_ruscifolia/3987773350.jpg",
+    "reason_tags": [
+      "agree_control"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "438114465",
+    "taxon": "Hydrostachys decaryi",
+    "image_path": "images/Hydrostachys_decaryi/438114465.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.phenology.flower"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "607568432",
+    "taxon": "Harpagophytum procumbens",
+    "image_path": "images/Harpagophytum_procumbens/607568432.jpg",
+    "reason_tags": [
+      "rare_positive",
+      "attached_photo",
+      "structures.phenology.reproductive_unknown"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "2807549831",
+    "taxon": "Phaulothamnus spinescens",
+    "image_path": "images/Phaulothamnus_spinescens/2807549831.jpg",
+    "reason_tags": [
+      "disagree",
+      "refs.stamp"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "1424273357",
+    "taxon": "Jacaratia spinosa",
+    "image_path": "images/Jacaratia_spinosa/1424273357.jpg",
+    "reason_tags": [
+      "disagree",
+      "refs.stamp"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "2418457820",
+    "taxon": "Pittosporum undulatum",
+    "image_path": "images/Pittosporum_undulatum/2418457820.jpg",
+    "reason_tags": [
+      "disagree",
+      "refs.stamp"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "1457744286",
+    "taxon": "Cycas revoluta",
+    "image_path": "images/Cycas_revoluta/1457744286.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.foliage_type"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "2598862959",
+    "taxon": "Basella alba",
+    "image_path": "images/Basella_alba/2598862959.jpg",
+    "reason_tags": [
+      "disagree",
+      "refs.stamp"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "4942441548",
+    "taxon": "Saccoloma galeottii",
+    "image_path": "images/Saccoloma_galeottii/4942441548.jpg",
+    "reason_tags": [
+      "disagree",
+      "refs.stamp"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "2424007625",
+    "taxon": "Davallodes hirsutum",
+    "image_path": "images/Davallodes_hirsutum/2424007625.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.stem"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "2859465413",
+    "taxon": "Aneulophus africanus",
+    "image_path": "images/Aneulophus_africanus/2859465413.jpg",
+    "reason_tags": [
+      "agree_control"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "4602173878",
+    "taxon": "Scheuchzeria palustris",
+    "image_path": "images/Scheuchzeria_palustris/4602173878.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.phenology.fruit"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "5110715086",
+    "taxon": "Allocasuarina luehmannii",
+    "image_path": "images/Allocasuarina_luehmannii/5110715086.jpg",
+    "reason_tags": [
+      "rare_positive",
+      "structures.phenology.seed_cone"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "4851271698",
+    "taxon": "Zamia integrifolia",
+    "image_path": "images/Zamia_integrifolia/4851271698.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.stem"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "5207052334",
+    "taxon": "Sarcobatus baileyi",
+    "image_path": "images/Sarcobatus_baileyi/5207052334.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.phenology.fruit"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "3118708326",
+    "taxon": "Hyaenanche globosa",
+    "image_path": "images/Hyaenanche_globosa/3118708326.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.phenology.fruit"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "473266984",
+    "taxon": "Butomus umbellatus",
+    "image_path": "images/Butomus_umbellatus/473266984.jpg",
+    "reason_tags": [
+      "agree_control"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "4101900299",
+    "taxon": "Bergia anagalloides",
+    "image_path": "images/Bergia_anagalloides/4101900299.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.phenology.flower"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "1697863058",
+    "taxon": "Limonium vulgare",
+    "image_path": "images/Limonium_vulgare/1697863058.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.foliage_type"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "1457800359",
+    "taxon": "Nageia nagi",
+    "image_path": "images/Nageia_nagi/1457800359.jpg",
+    "reason_tags": [
+      "rare_positive",
+      "structures.phenology.pollen_cone"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "4138998311",
+    "taxon": "Tiquilia paronychioides",
+    "image_path": "images/Tiquilia_paronychioides/4138998311.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.stem"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "1503212380",
+    "taxon": "Polypremum procumbens",
+    "image_path": "images/Polypremum_procumbens/1503212380.jpg",
+    "reason_tags": [
+      "disagree",
+      "refs.stamp"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "1228573156",
+    "taxon": "Rhabdodendron gardnerianum",
+    "image_path": "images/Rhabdodendron_gardnerianum/1228573156.jpg",
+    "reason_tags": [
+      "disagree",
+      "refs.stamp"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "4910132107",
+    "taxon": "Nyctaginia capitata",
+    "image_path": "images/Nyctaginia_capitata/4910132107.jpg",
+    "reason_tags": [
+      "disagree",
+      "refs.stamp"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "4929910589",
+    "taxon": "Daphniphyllum teijsmannii",
+    "image_path": "images/Daphniphyllum_teijsmannii/4929910589.jpg",
+    "reason_tags": [
+      "agree_control"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "5895710955",
+    "taxon": "Bergia anagalloides",
+    "image_path": "images/Bergia_anagalloides/5895710955.jpg",
+    "reason_tags": [
+      "rare_positive",
+      "structures.phenology.reproductive_unknown"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "1228344885",
+    "taxon": "Neuradopsis bechuanensis",
+    "image_path": "images/Neuradopsis_bechuanensis/1228344885.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.phenology.flower"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "4850499625",
+    "taxon": "Corynocarpus laevigatus",
+    "image_path": "images/Corynocarpus_laevigatus/4850499625.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.phenology.flower"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "4988907484",
+    "taxon": "Medusanthera laxiflora",
+    "image_path": "images/Medusanthera_laxiflora/4988907484.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.phenology.flower"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "1851052969",
+    "taxon": "Bergia capensis",
+    "image_path": "images/Bergia_capensis/1851052969.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.phenology.fruit"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "1998905269",
+    "taxon": "Helwingia crenata",
+    "image_path": "images/Helwingia_crenata/1998905269.jpg",
+    "reason_tags": [
+      "rare_positive",
+      "attached_photo"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "2422483849",
+    "taxon": "Yucca aloifolia",
+    "image_path": "images/Yucca_aloifolia/2422483849.jpg",
+    "reason_tags": [
+      "rare_positive",
+      "attached_photo"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "1318624332",
+    "taxon": "Helminthostachys zeylanica",
+    "image_path": "images/Helminthostachys_zeylanica/1318624332.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.foliage_type"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "3439536906",
+    "taxon": "Portulaca sativa",
+    "image_path": "images/Portulaca_sativa/3439536906.jpg",
+    "reason_tags": [
+      "disagree",
+      "refs.stamp"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "5103897481",
+    "taxon": "Taxodium distichum",
+    "image_path": "images/Taxodium_distichum/5103897481.jpg",
+    "reason_tags": [
+      "rare_positive",
+      "structures.phenology.pollen_cone",
+      "structures.phenology.seed_cone"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "4872705661",
+    "taxon": "Sarcobatus baileyi",
+    "image_path": "images/Sarcobatus_baileyi/4872705661.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.foliage_type"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "2575239287",
+    "taxon": "Aldrovanda vesiculosa",
+    "image_path": "images/Aldrovanda_vesiculosa/2575239287.jpg",
+    "reason_tags": [
+      "rare_positive",
+      "attached_photo"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "4975182162",
+    "taxon": "Terminalia catappa",
+    "image_path": "images/Terminalia_catappa/4975182162.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.phenology.flower"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "2235748101",
+    "taxon": "Loasa acanthifolia",
+    "image_path": "images/Loasa_acanthifolia/2235748101.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.stem"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "3424031327",
+    "taxon": "Torricellia angulata",
+    "image_path": "images/Torricellia_angulata/3424031327.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.stem"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "3331181301",
+    "taxon": "Picea abies",
+    "image_path": "images/Picea_abies/3331181301.jpg",
+    "reason_tags": [
+      "rare_positive",
+      "attached_photo",
+      "structures.phenology.pollen_cone"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "4081344842",
+    "taxon": "Tmesipteris tannensis",
+    "image_path": "images/Tmesipteris_tannensis/4081344842.jpg",
+    "reason_tags": [
+      "disagree",
+      "refs.stamp"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "1936383821",
+    "taxon": "Cervantesia bicolor",
+    "image_path": "images/Cervantesia_bicolor/1936383821.jpg",
+    "reason_tags": [
+      "rare_positive",
+      "attached_photo"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "2418790864",
+    "taxon": "Schizaea bifida",
+    "image_path": "images/Schizaea_bifida/2418790864.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.foliage_type"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "1457824122",
+    "taxon": "Stachytarpheta cayennensis",
+    "image_path": "images/Stachytarpheta_cayennensis/1457824122.jpg",
+    "reason_tags": [
+      "agree_control"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "2331569144",
+    "taxon": "Polypodium vulgare",
+    "image_path": "images/Polypodium_vulgare/2331569144.jpg",
+    "reason_tags": [
+      "agree_control"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "1228540900",
+    "taxon": "Brachynema axillare",
+    "image_path": "images/Brachynema_axillare/1228540900.jpg",
+    "reason_tags": [
+      "agree_control"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "1838084099",
+    "taxon": "Gallesia integrifolia",
+    "image_path": "images/Gallesia_integrifolia/1838084099.jpg",
+    "reason_tags": [
+      "agree_control"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "2242385669",
+    "taxon": "Asparagus officinalis",
+    "image_path": "images/Asparagus_officinalis/2242385669.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.foliage_type"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  },
+  {
+    "gbifID": "4607971270",
+    "taxon": "Marsippospermum grandiflorum",
+    "image_path": "images/Marsippospermum_grandiflorum/4607971270.jpg",
+    "reason_tags": [
+      "disagree",
+      "structures.phenology.fruit"
+    ],
+    "fields": {
+      "type": [
+        "PH",
+        "PI",
+        "uncertain"
+      ],
+      "structures.foliage": [
+        "present",
+        "absent",
+        "uncertain"
+      ],
+      "structures.foliage_type": [
+        "leaf",
+        "needle",
+        "scale",
+        "frond",
+        "spine",
+        "mixed",
+        "unknown",
+        "none",
+        "uncertain"
+      ],
+      "structures.stem": [
+        "woody",
+        "herbaceous",
+        "unknown",
+        "uncertain"
+      ],
+      "attached_photo": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.flower": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.fruit": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.pollen_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.seed_cone": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.sporulating": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "structures.phenology.reproductive_unknown": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.label": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.barcode": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.stamp": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.crc": [
+        "true",
+        "false",
+        "uncertain"
+      ],
+      "refs.scale_bar": [
+        "true",
+        "false",
+        "uncertain"
+      ]
+    }
+  }
+]

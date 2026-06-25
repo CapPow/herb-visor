@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
-adjudicate.py  (pkg_v2/human_gt/)
+adjudicate.py  (validation/)
 
 Final analysis. Joins human gold (review_verdicts.csv) with LLM predictions
 (preds.jsonl) and the clade gate (clade_map.csv) on gbifID, keeps reviewed=true.
 Produces parallel scorecards for STUDENT-vs-human and TEACHER-vs-human.
 
-Run from pkg_v2/:
-    python human_gt/adjudicate.py
+Run from validation/:
+    python adjudicate.py
 
 Key design points:
 - Human phenology was collapsed to a single boolean `repro_visible`. The LLM
@@ -89,10 +89,10 @@ def prf(tp, fp, tn, fn):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--verdicts", default="human_gt/review_verdicts.csv")
-    ap.add_argument("--preds", default="human_gt/preds.jsonl")
-    ap.add_argument("--clade", default="human_gt/clade_map.csv")
-    ap.add_argument("--outdir", default="human_gt")
+    ap.add_argument("--verdicts", default="review_verdicts.csv")
+    ap.add_argument("--preds", default="preds.jsonl")
+    ap.add_argument("--clade", default="clade_map.csv")
+    ap.add_argument("--outdir", default="outputs")
     args = ap.parse_args()
 
     preds = {}
