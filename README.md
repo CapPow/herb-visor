@@ -104,7 +104,6 @@ Enum fields:
 
 | Enum field | Agreement |
 |---|---|
-| `type` | 1.000 |
 | `structures.foliage` | 0.984 |
 | `structures.foliage_type` | 0.928 |
 | `structures.stem` | 0.893 |
