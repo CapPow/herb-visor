@@ -6,7 +6,7 @@ A fine-tuned 4B vision-language model that reads herbarium specimen images and e
 
 ![Herb-VISOR demo: drop an image into the llama.cpp web UI, get JSON out](docs/assets/demo.gif)
 
-**[View the dataset card](https://<user>.github.io/<repo>/dataset-card.html)** — interactive breakdown of the training corpus: taxonomy, phenology, provenance, and the 218 contributing institutions. Every section is tagged by data source (GBIF-verified, Malon-classified, or teacher-inferred).
+**[View the dataset card](https://cappow.github.io/herb-visor/dataset-card.html)** — interactive breakdown of the training corpus: taxonomy, phenology, provenance, and the 218 contributing institutions. Every section is tagged by data source (GBIF-verified, Malon-classified, or teacher-inferred).
 
 ## What it is
 
