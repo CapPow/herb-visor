@@ -72,10 +72,43 @@ Accuracy was measured against human-validated labels on a 100-specimen blind sam
 
 Strict whole-specimen exact match (all 10 fields simultaneously correct) was 0.438 for Herb-VISOR and 0.484 for the teacher. This is a deliberately hard conjunction: one wrong field fails the specimen. The per-field view above reflects what a curator experiences.
 
-Two honest caveats:
+Two caveats:
 
 - Ground truth is a single non-specialist annotator over all vascular plants (n=100; 36/100 specimens carry at least one uncertain field). Some apparent model errors are likely annotator-limited (for example, bract versus leaf). Treat these numbers as a conservative floor.
 - Herb-VISOR tracks its teacher closely, including the teacher's errors. Distillation preserved teacher behavior; it did not exceed it. `type` is always `PH` on herbarium input and is not a discriminative result.
+
+### Student–teacher agreement (full test set, n=643)
+
+The numbers above are accuracy against human labels. Separately, before human
+validation, the student was scored against the teacher's captions across the
+full 643-specimen test set. This measures how faithfully distillation
+reproduced the teacher, **not** correctness: the teacher is itself wrong a
+some of the time (see the human-validated table above, where the teacher's 
+own exact-match is 0.484).
+
+Output was valid JSON in 643/643 cases (100%) and strict-schema-parsed in
+643/643 (100%). Whole-specimen exact match with the teacher was 51.6%.
+
+Per-field agreement with the teacher:
+
+| Boolean field | tp | fp | fn | tn | Precision | Recall | Agreement |
+|---|---|---|---|---|---|---|---|
+| `attached_photo` | 5 | 3 | 2 | 633 | 0.62 | 0.71 | 0.992 |
+| `phenology.flower` | 232 | 63 | 52 | 296 | 0.79 | 0.82 | 0.821 |
+| `phenology.fruit` | 149 | 56 | 70 | 368 | 0.73 | 0.68 | 0.804 |
+| `phenology.pollen_cone` | 1 | 0 | 3 | 639 | 1.00 | 0.25 | 0.995 |
+| `phenology.seed_cone` | 2 | 1 | 0 | 640 | 0.67 | 1.00 | 0.998 |
+| `phenology.sporulating` | 35 | 18 | 1 | 589 | 0.66 | 0.97 | 0.970 |
+| `phenology.reproductive_unknown` | 0 | 0 | 5 | 638 | — | 0.00 | 0.992 |
+| `refs.label` | 643 | 0 | 0 | 0 | 1.00 | 1.00 | 1.000 |
+| `refs.barcode` | 541 | 1 | 8 | 93 | 1.00 | 0.99 | 0.986 |
+| `refs.stamp` | 329 | 24 | 40 | 250 | 0.93 | 0.89 | 0.900 |
+| `refs.crc` | 533 | 1 | 0 | 109 | 1.00 | 1.00 | 0.998 |
+| `refs.scale_bar` | 600 | 11 | 0 | 32 | 0.98 | 1.00 | 0.983 |
+
+The fine-grained phenology fields are not human-validated; read them as
+teacher-agreement only. Positive class is `true`; counts are over all 643 test
+specimens.
 
 ## Reproduce the validation
 
