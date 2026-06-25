@@ -21,7 +21,15 @@ Key properties:
 
 ## Quickstart
 
-Download the GGUF files (see [Model files](#model-files)), then start a server:
+**Fastest path** — one command. Downloads Q8 to llama.cpp's cache and auto-fetches the projector:
+
+```bash
+llama-server -hf CapPow/herb-visor:Q8 --temp 0 -c 8192
+```
+
+Serves an OpenAI-compatible endpoint at `127.0.0.1:8080`.
+
+**Local files instead** — download from [Model files](#model-files), then point to them directly (don't also run the pull above):
 
 ```bash
 llama-server \
@@ -34,12 +42,11 @@ llama-server \
 
 The only text input is the taxon binomial (standard casing, e.g. `Acer pseudoplatanus`), with the specimen image attached. Use `temperature 0` for deterministic output. The model also returns valid JSON without a taxon name; the name is included to aid reproductive-trait alignment.
 
-The simplest path is the included client ([`infer.py`](infer.py), pure Python standard library):
+The simplest client is the included [`infer.py`](infer.py) (pure Python standard library):
 
 ```bash
 python infer.py path/to/specimen.jpg "Acer pseudoplatanus"
 ```
-
 Or via the OpenAI-compatible endpoint. Build the request payload in Python (a base64 image is too large to pass as a shell argument), then send it:
 
 ```bash
