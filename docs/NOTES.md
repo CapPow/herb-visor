@@ -57,6 +57,15 @@ Carry these into any use of the model output or the reported numbers.
 
 **Herb-VISOR tracks its teacher, including its errors.** Distillation preserved teacher behavior; the student did not exceed the teacher on either accuracy or clade consistency. The `type` field is always `PH` on herbarium input and is not a discriminative result.
 
+## Deployment tuning
+
+The llama.cpp server used to produce the speed and accuracy numbers in this
+repository set `image-min-tokens 2048`, raising the vision-tower's per-image
+token floor. In a same-image spot check (an *Acer pseudoplatanus* sheet, q8
+weights), this changed the image from ~1,292 to ~2,088 prompt tokens but
+produced byte-identical JSON. It may help on sparse images where a small
+specimen occupies little of the sheet. The model produces valid output without it.
+
 ## Dataset card
 
 The interactive dataset card (`docs/dataset-card.html`, viewable through GitHub Pages) was generated from aggregates over the training corpus by a local build pipeline. That pipeline depends on local harvest paths and is not shipped. Each section of the card is tagged by data source: GBIF-verified metadata, Malon classifier output, or teacher-inferred (model output, unverified).
