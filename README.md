@@ -97,7 +97,7 @@ Specimen-level impossible rate: 8/643 (0.012) for Herb-VISOR, 6/643 (0.009) for 
 
 ## Model files
 
-Hosted on Hugging Face: **[PLACEHOLDER: huggingface.co/<user>/herb-visor]**
+Hosted on Hugging Face: ** https://huggingface.co/CapPow/herb-visor **
 
 | File | Purpose | Size |
 |---|---|---|
@@ -128,8 +128,17 @@ See [`docs/NOTES.md`](docs/NOTES.md) for project lineage, the image-licensing an
 
 ## License
 
-[PLACEHOLDER: choose a license. Code and model weights may differ. Note GBIF-derived data terms in docs/NOTES.md.]
+Repository code is released under the MIT license. The model weights are a full-weight fine-tune of [Qwen/Qwen3-VL-4B-Instruct](https://huggingface.co/Qwen/Qwen3-VL-4B-Instruct) (Apache 2.0) and are released under Apache 2.0, with a derivation notice on the [model repository](https://huggingface.co/CapPow/herb-visor). Training images are GBIF-derived and follow their source-institution terms; they are not redistributed here (see [`docs/NOTES.md`](docs/NOTES.md)).
 
 ## Citation
 
-[PLACEHOLDER: citation block.]
+```bibtex
+@software{powell2026herbvisor,
+  author  = {Powell, Caleb and Sterner, Beckett},
+  title   = {Herb-VISOR: a compact vision-language model for
+             structured captioning of herbarium specimens},
+  year    = {2026},
+  url     = {https://github.com/CapPow/herb-visor},
+  note    = {Software and model weights; manuscript in preparation}
+}
+```

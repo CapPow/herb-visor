@@ -6,3 +6,6 @@ images/
 # dataset card build pipeline (regenerable, hardcoded local paths)
 _dataset_build/
 echarts.min.js
+
+# HF model repo scratch
+_hf_repo/
