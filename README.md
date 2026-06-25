@@ -16,7 +16,7 @@ Key properties:
 
 - **Prompt-free.** No system prompt, no schema instructions. User input is the bare taxon binomial plus the image. The model was trained in two phases (phase 1 with full schema instructions, phase 2 with image + taxon only) so the schema is baked into the weights.
 - **Always valid.** On the 643-specimen held-out test set, output was schema-valid, strict-parsed, controlled-vocabulary JSON 643/643 times (100%). End users do not reproduce a long prompt or preprocess instruction tokens.
-- **Small and portable.** 4B parameters, llama.cpp-native GGUF (q8 ~4.3 GB, f16 ~8 GB). Runs offline. Test numbers below were produced on a single Intel Arc Pro B70 (32 GB); the student also runs on a 12 GB consumer GPU.
+- **Small and portable.** 4B parameters, llama.cpp-native GGUF (q8 ~4.3 GB, f16 ~8 GB). Runs offline. Test numbers below were produced on a single Intel Arc Pro B70 (32 GB); the q8 model also runs on a consumer 12 GB GPU using around 8 GB of VRAM.
 - **Fast.** ~5.0 s/img single-stream versus ~68.6 s/img for the 27B teacher on the same hardware.
 
 ## Quickstart
@@ -25,32 +25,44 @@ Download the GGUF files (see [Model files](#model-files)), then start a server:
 
 ```bash
 llama-server \
-  --model qwen3-vl-4b-herbarium-q8.gguf \
-  --mmproj mmproj-qwen3-vl-4b-herbarium-f16.gguf \
+  --model herb-visor-4b-q8.gguf \
+  --mmproj herb-visor-4b-mmproj-f16.gguf \
   --temp 0 \
   -c 8192 \
-  --host 0.0.0.0 --port 8080
+  --host 127.0.0.1 --port 8080
 ```
 
-Send a specimen image with the taxon binomial as the only text content (OpenAI-compatible endpoint):
+The only text input is the taxon binomial (standard casing, e.g. `Acer pseudoplatanus`), with the specimen image attached. Use `temperature 0` for deterministic output. The model also returns valid JSON without a taxon name; the name is included to aid reproductive-trait alignment.
+
+The simplest path is the included client ([`infer.py`](infer.py), pure Python standard library):
 
 ```bash
-curl http://localhost:8080/v1/chat/completions \
-  -H "Content-Type: application/json" \
-  -d '{
-    "messages": [{
-      "role": "user",
-      "content": [
-        {"type": "text", "text": "Cycas revoluta"},
-        {"type": "image_url",
-         "image_url": {"url": "data:image/jpeg;base64,<BASE64_IMAGE>"}}
-      ]
-    }],
-    "temperature": 0
-  }'
+python infer.py path/to/specimen.jpg "Acer pseudoplatanus"
 ```
 
-Use `temperature 0` for deterministic, reproducible structured output. The taxon name uses standard taxonomic casing (`Genus species`). The model still returns valid JSON without a taxon name; the name is included to aid reproductive-trait alignment.
+Or via the OpenAI-compatible endpoint. Build the request payload in Python (a base64 image is too large to pass as a shell argument), then send it:
+
+```bash
+python3 <<'PY'
+import json, base64
+img = base64.b64encode(open("path/to/specimen.jpg", "rb").read()).decode()
+payload = {
+    "messages": [{
+        "role": "user",
+        "content": [
+            {"type": "text", "text": "Acer pseudoplatanus"},
+            {"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{img}"}}
+        ]
+    }],
+    "temperature": 0
+}
+open("/tmp/req.json", "w").write(json.dumps(payload))
+PY
+
+curl -s http://localhost:8080/v1/chat/completions \
+  -H "Content-Type: application/json" \
+  --data-binary @/tmp/req.json | python -m json.tool
+```
 
 Output conforms to [`schema/schema.json`](schema/schema.json).
 
