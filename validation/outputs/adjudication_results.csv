@@ -1,0 +1,46 @@
+source,field,metric,value,n,detail
+student,type,enum_acc,100,100,1.0000
+student,structures.foliage,enum_acc,89,92,0.9674
+student,structures.stem,enum_acc,61,77,0.7922
+student,attached_photo,bool,"3,5,92,0",100,P=0.375;R=1.000;A=0.950
+student,refs.label,bool,"99,1,0,0",100,P=0.990;R=1.000;A=0.990
+student,refs.barcode,bool,"82,0,18,0",100,P=1.000;R=1.000;A=1.000
+student,refs.stamp,bool,"52,1,18,29",100,P=0.981;R=0.642;A=0.700
+student,refs.crc,bool,"84,0,16,0",100,P=1.000;R=1.000;A=1.000
+student,refs.scale_bar,bool,"96,0,4,0",100,P=1.000;R=1.000;A=1.000
+student,repro_visible,bool,"67,8,10,3",88,P=0.893;R=0.957;A=0.875
+student,OVERALL,exact_match,28,64,0.4375
+teacher,type,enum_acc,100,100,1.0000
+teacher,structures.foliage,enum_acc,90,92,0.9783
+teacher,structures.stem,enum_acc,59,77,0.7662
+teacher,attached_photo,bool,"3,4,93,0",100,P=0.429;R=1.000;A=0.960
+teacher,refs.label,bool,"99,1,0,0",100,P=0.990;R=1.000;A=0.990
+teacher,refs.barcode,bool,"81,1,17,1",100,P=0.988;R=0.988;A=0.980
+teacher,refs.stamp,bool,"57,3,16,24",100,P=0.950;R=0.704;A=0.730
+teacher,refs.crc,bool,"84,0,16,0",100,P=1.000;R=1.000;A=1.000
+teacher,refs.scale_bar,bool,"96,0,4,0",100,P=1.000;R=1.000;A=1.000
+teacher,repro_visible,bool,"69,6,12,1",88,P=0.920;R=0.986;A=0.920
+teacher,OVERALL,exact_match,31,64,0.4844
+
+improvement,field,fixed,regress,both_ok,both_bad
+improvement,type,0,0,100,0
+improvement,structures.foliage,0,1,89,2
+improvement,structures.stem,6,4,55,12
+improvement,attached_photo,2,3,93,2
+improvement,refs.label,0,0,99,1
+improvement,refs.barcode,2,0,98,0
+improvement,refs.stamp,10,13,60,17
+improvement,refs.crc,0,0,100,0
+improvement,refs.scale_bar,0,0,100,0
+improvement,repro_visible,2,6,75,5
+
+clade_gate,source,trait,gbifID,taxon,group
+clade_gate,student,flower,1457800359,Nageia nagi,gymnosperm
+clade_gate,student,flower,1318624332,Helminthostachys zeylanica,spore_plant
+clade_gate,student,fruit,1457744286,Cycas revoluta,gymnosperm
+clade_gate,student,seed_cone,4954042639,Casuarina equisetifolia,angiosperm
+clade_gate,student,seed_cone,5110715086,Allocasuarina luehmannii,angiosperm
+clade_gate,teacher,fruit,1457744286,Cycas revoluta,gymnosperm
+clade_gate,teacher,pollen_cone,5762676187,Myrothamnus flabellifolius,angiosperm
+clade_gate,teacher,seed_cone,4954042639,Casuarina equisetifolia,angiosperm
+clade_gate,teacher,seed_cone,5110715086,Allocasuarina luehmannii,angiosperm

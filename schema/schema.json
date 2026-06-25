@@ -1,0 +1,137 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Herbarium Specimen Caption (simplified phenology)",
+  "description": "JSON schema for the simplified herbarium caption. Phenology is a set of independent boolean presence flags; all other fields are unchanged from the original schema.",
+  "type": "object",
+  "required": [
+    "type",
+    "attached_photo",
+    "structures",
+    "refs"
+  ],
+  "properties": {
+    "type": {
+      "type": "string",
+      "enum": ["PH", "PI"],
+      "description": "PH = herbarium sheet photo (pressed specimen), PI = in-situ photo (living plant)."
+    },
+    "attached_photo": {
+      "type": "boolean",
+      "description": "Whether a separate printed or attached photograph is visible on the sheet."
+    },
+    "structures": {
+      "type": "object",
+      "required": [
+        "foliage",
+        "foliage_type",
+        "stem",
+        "phenology"
+      ],
+      "properties": {
+        "foliage": {
+          "type": "string",
+          "enum": ["present", "absent"],
+          "description": "Whether any leaves or needle-like structures are visible on the sheet."
+        },
+        "foliage_type": {
+          "type": "string",
+          "enum": [
+            "leaf",
+            "needle",
+            "scale",
+            "frond",
+            "spine",
+            "mixed",
+            "unknown",
+            "none"
+          ],
+          "description": "Dominant leaf type. Use 'none' when foliage='absent'."
+        },
+        "stem": {
+          "type": "string",
+          "enum": ["woody", "herbaceous", "unknown"],
+          "description": "Nature of the stem tissue on the pressed specimen."
+        },
+        "phenology": {
+          "type": "object",
+          "description": "Reproductive developmental state as independent presence flags. Reproductive traits only; vegetative structures do not count. Multiple flags may be true. All false = vegetative / no reproductive structures visible.",
+          "required": [
+            "flower",
+            "fruit",
+            "pollen_cone",
+            "seed_cone",
+            "sporulating",
+            "reproductive_unknown"
+          ],
+          "properties": {
+            "flower": {
+              "type": "boolean",
+              "description": "Flower buds, open flowers, or an inflorescence visible."
+            },
+            "fruit": {
+              "type": "boolean",
+              "description": "Fruit at any stage (developing, mature, dehiscent), or bare seed, visible."
+            },
+            "pollen_cone": {
+              "type": "boolean",
+              "description": "Male (pollen) cone / microsporangiate strobilus visible."
+            },
+            "seed_cone": {
+              "type": "boolean",
+              "description": "Female (seed) cone / megasporangiate strobilus visible."
+            },
+            "sporulating": {
+              "type": "boolean",
+              "description": "Spore-bearing structures on a non-seed plant visible (sori/sporangia, strobili, sporophytes)."
+            },
+            "reproductive_unknown": {
+              "type": "boolean",
+              "description": "A reproductive structure is clearly present but cannot be assigned to any category above."
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    },
+    "refs": {
+      "type": "object",
+      "required": [
+        "fragment_packet",
+        "label",
+        "barcode",
+        "stamp",
+        "crc",
+        "scale_bar"
+      ],
+      "properties": {
+        "fragment_packet": {
+          "type": "boolean",
+          "description": "Whether a separate envelope, packet, or bag with additional plant fragments is visible."
+        },
+        "label": {
+          "type": "boolean",
+          "description": "Whether a printed or handwritten label card is visible on or near the specimen."
+        },
+        "barcode": {
+          "type": "boolean",
+          "description": "Whether a striped (1D) or 2D barcode is visible."
+        },
+        "stamp": {
+          "type": "boolean",
+          "description": "Whether an ink stamp, seal, or institutional mark is visible."
+        },
+        "crc": {
+          "type": "boolean",
+          "description": "Whether a color reference chart (CRC chart) is visible."
+        },
+        "scale_bar": {
+          "type": "boolean",
+          "description": "Whether a ruler, scale bar, or measurement reference is visible."
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

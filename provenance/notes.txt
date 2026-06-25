@@ -1,0 +1,3 @@
+Recaption was an effort to .. recaption already downloaded and sampled images with a simplified captioning schema.
+
+The /mnt/sda1/vllm-captioning-v2/src/recaption/bundle_v2.py is used to package up the work for delivery.

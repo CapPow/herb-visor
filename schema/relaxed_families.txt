@@ -1,0 +1,16 @@
+# Families exempt from the cross-clade phenology exclusivity check only.
+# (Gnetophyta: cone/flower terminology blur — flowers vs. strobili.)
+#
+# Relaxation scope: ONLY the cross-clade mutual-exclusivity rule
+# (flower/fruit <-> pollen_cone/seed_cone <-> sporulating). All other checks
+# still hard-fail for these families: schema/type/enum, foliage coupling, and
+# the reproductive_unknown-plus-specific-flag contradiction (definitional).
+#
+# Format: one family name per row. Matched case-insensitively after strip().
+# Blank lines and lines beginning with '#' are ignored.
+# Matching is keyed on the sidecar's "family_name" (GBIF). Records with a
+# null/missing family_name fail closed -> strict rules apply.
+
+Gnetaceae
+Ephedraceae
+Welwitschiaceae

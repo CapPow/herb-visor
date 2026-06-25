@@ -1,0 +1,13 @@
+source,trait,impossible,gateable_n,impossible_rate,onclade_positives,onclade_n
+student,flower,2,69,0.02899,293,574
+student,fruit,2,69,0.02899,202,574
+student,pollen_cone,0,633,0.00000,1,10
+student,seed_cone,2,633,0.00316,1,10
+student,sporulating,2,584,0.00342,51,59
+student,SPECIMEN_LEVEL,8,643,0.01244,,
+teacher,flower,0,69,0.00000,284,574
+teacher,fruit,3,69,0.04348,216,574
+teacher,pollen_cone,1,633,0.00158,3,10
+teacher,seed_cone,2,633,0.00316,0,10
+teacher,sporulating,0,584,0.00000,36,59
+teacher,SPECIMEN_LEVEL,6,643,0.00933,,
