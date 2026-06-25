@@ -91,17 +91,25 @@ Two caveats:
 
 ### Student–teacher agreement (full test set, n=643)
 
-The numbers above are accuracy against human labels. Separately, before human
-validation, the student was scored against the teacher's captions across the
-full 643-specimen test set. This measures how faithfully distillation
-reproduced the teacher, **not** correctness: the teacher is itself wrong a
-some of the time (see the human-validated table above, where the teacher's 
-own exact-match is 0.484).
+The numbers above are accuracy against human labels. Separately, the student was
+scored against the teacher's captions across the full 643-specimen test set.
+This measures how faithfully distillation reproduced the teacher, **not**
+correctness (the teacher's own exact-match against humans is 0.484).
 
 Output was valid JSON in 643/643 cases (100%) and strict-schema-parsed in
 643/643 (100%). Whole-specimen exact match with the teacher was 51.6%.
 
-Per-field agreement with the teacher:
+Per-field agreement with the teacher. 
+Enum fields:
+
+| Enum field | Agreement |
+|---|---|
+| `type` | 1.000 |
+| `structures.foliage` | 0.984 |
+| `structures.foliage_type` | 0.928 |
+| `structures.stem` | 0.893 |
+
+Boolean fields:
 
 | Boolean field | tp | fp | fn | tn | Precision | Recall | Agreement |
 |---|---|---|---|---|---|---|---|
@@ -150,13 +158,13 @@ on-clade positives.
 
 ## Model files
 
-Hosted on Hugging Face: ** https://huggingface.co/CapPow/herb-visor **
+Hosted on Hugging Face: https://huggingface.co/CapPow/herb-visor
 
 | File | Purpose | Size |
 |---|---|---|
-| `qwen3-vl-4b-herbarium-q8.gguf` | student weights, q8 (recommended) | ~4.3 GB |
-| `qwen3-vl-4b-herbarium-f16.gguf` | student weights, f16 | ~8 GB |
-| `mmproj-qwen3-vl-4b-herbarium-f16.gguf` | vision projector (required) | ~0.8 GB |
+| `herb-visor-4b-q8.gguf` | student weights, q8 (recommended) | ~4.3 GB |
+| `herb-visor-4b-f16.gguf` | student weights, f16 | ~8 GB |
+| `herb-visor-4b-mmproj-f16.gguf` | vision projector (required) | ~0.8 GB |
 
 The mmproj file is required for image input. Pair it with either weight file.
 
