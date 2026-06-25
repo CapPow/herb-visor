@@ -124,9 +124,17 @@ Both read frozen artifacts (`preds.jsonl`, `review_verdicts.csv`, `clade_map.csv
 
 ### Label-free reliability check
 
-`clade_consistency.py` asks, for all 643 predictions: did the model assert a reproductive trait botanically impossible for that specimen's clade (per the GBIF backbone)? This needs no human labels.
+`clade_consistency.py` checks, across all 643 predictions, whether the model
+asserted a reproductive trait botanically impossible for the specimen's clade
+(per the GBIF backbone). No human labels needed.
 
-Specimen-level impossible rate: 8/643 (0.012) for Herb-VISOR, 6/643 (0.009) for the teacher. Report this as an **upper bound**: several flagged cases are morphological mimics, not true errors. Casuarina and Allocasuarina bear woody cone-like infructescences (flagged as seed_cone on an angiosperm); Cycas and Gnetum have fruit-like structures. The check catches false positives of impossible structures only; it cannot detect a real structure the model missed, and it does not adjudicate on-clade positives.
+Specimen-level impossible rate: 8/643 (0.012) for Herb-VISOR, 6/643 (0.009) for
+the teacher. These are an upper bound: several flagged cases are morphological
+mimics, not errors. Casuarina and Allocasuarina bear woody cone-like
+infructescences (flagged as seed_cone on an angiosperm), and Cycas and Gnetum
+have fruit-like structures. The check catches only false positives of impossible
+structures; it cannot detect a structure the model missed, nor adjudicate
+on-clade positives.
 
 ## Model files
 
